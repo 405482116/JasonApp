@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/405482116/JasonApp.git"
+  },
+  "keywords": [
+    "express",
+    "app"
+  ],
+  "author": "Jason",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "handlebars": "^4.0.11",
+    "hbs": "^4.0.1"
+  }
+}
